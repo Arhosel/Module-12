@@ -1,0 +1,6 @@
+2025-01-05 00:54:42,650 - INFO - Запуск теста "test_challenge"
+2025-01-05 00:54:42,650 - INFO - "test_challenge" выполнен успешно
+2025-01-05 00:54:42,650 - INFO - Запуск теста "test_run"
+2025-01-05 00:54:42,650 - WARNING - Неверный тип данных для объекта Runner: Name must be a string
+2025-01-05 00:54:42,650 - INFO - Запуск теста "test_walk"
+2025-01-05 00:54:42,650 - WARNING - Неверная скорость для Runner: Speed must be non-negative
